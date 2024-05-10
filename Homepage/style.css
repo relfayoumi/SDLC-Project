@@ -1,11 +1,16 @@
 body {
-    background-image: url('ConstructionPic.webp');
+    background-image: url('ConstructionPic.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-
 }
 #Navbar {
     width:100%;
     overflow:auto;
+}
+#Logo {
+    float:left;
+}
+img.Logo {
+    height:100px;
 }
