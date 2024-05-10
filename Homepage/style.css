@@ -4,13 +4,8 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
-#Navbar {
+div {
     width:100%;
-    overflow:auto;
-}
-#Logo {
+    background-color: green;
     float:left;
-}
-img.Logo {
-    height:100px;
 }
