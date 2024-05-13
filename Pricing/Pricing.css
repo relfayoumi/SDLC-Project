@@ -1,0 +1,9 @@
+div.mycontainer {
+    width: 100%;
+    overflow: auto;
+    text-align: center;
+  }
+  div.mycontainer div {
+    width: 33%;
+    float: left;
+  }
