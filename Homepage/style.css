@@ -4,7 +4,18 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
-div {
-    width:100%;
-    float:left;
+.div1 {
+    overflow: auto;
+    background-color: rgb(206, 203, 57);
+}
+.div1 a {
+    float: left;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+.div1 a:hover {
+    background-color: white;
+
 }
