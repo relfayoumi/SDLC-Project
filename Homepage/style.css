@@ -22,3 +22,8 @@ img {
     height: 48px;
     float:left;
 }
+.divCR {
+    background-color: aliceblue;
+    float: left;
+    padding: 10px;
+}
