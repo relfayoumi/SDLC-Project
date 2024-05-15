@@ -24,6 +24,10 @@ img {
 }
 .divCR {
     background-color: aliceblue;
-    float: left;
+    left: 30%;
+    right: 50%;
+    position: absolute;
     padding: 10px;
+    width: 35%;
+    text-align: center;
 }
