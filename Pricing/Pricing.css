@@ -25,3 +25,12 @@ img {
     height: 48px;
     float:left;
 }
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(15, 15, 44);
+    color: rgb(223, 215, 215);
+    text-align: center;
+ 
+ }
