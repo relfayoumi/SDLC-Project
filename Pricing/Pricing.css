@@ -34,3 +34,23 @@ img {
     text-align: center;
  
  }
+ div {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 30%;
+  display: inline-block;
+  margin: 10px;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+#bronze {
+  background-color: #cf5132;
+}
+#silver {
+  background-color: rgb(209, 209, 209);
+}
+
+#gold {
+  background-color: rgb(255, 204, 36);
+}
+
