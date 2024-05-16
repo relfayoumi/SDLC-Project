@@ -1,27 +1,19 @@
-div.mycontainer {
-    width: 100%;
-    overflow: auto;
-    text-align: center;
-  }
-  div.mycontainer div {
-    width: 33%;
-    float: left;
-  }
-.div1 {
-    overflow: auto;
-    background-color: rgb(206, 203, 57);
+div {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 30%;
+  display: inline-block;
+  margin: 10px;
+  box-sizing: border-box;
+  padding: 20px;
 }
-.div1 a {
-    float: left;
-    padding: 14px 16px;
-    text-align: center;
-    text-decoration: none;
-    color: black;
+
+#bronze {
+  background-color: #cf5132;
 }
-.div1 a:hover {
-    background-color: white;
+#silver {
+  background-color: rgb(209, 209, 209);
 }
-img {
-    height: 48px;
-    float:left;
+
+#gold {
+  background-color: rgb(255, 204, 36);
 }
