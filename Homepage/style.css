@@ -18,7 +18,7 @@ body {
 .div1 a:hover {
     background-color: white;
 }
-img {
+.imgCR {
     height: 48px;
     float:left;
 }
@@ -30,4 +30,12 @@ img {
     padding: 10px;
     width: 35%;
     text-align: center;
+}
+.imgConst {
+    height: 200px;
+    float: left;
+}
+.imgConst2 {
+    height: 200px;
+    float: left;
 }
