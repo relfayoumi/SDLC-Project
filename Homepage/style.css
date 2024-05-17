@@ -3,6 +3,8 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    margin: 0;
+    padding: 0;
 }
 .div1 {
     overflow: auto;
@@ -45,6 +47,10 @@ body {
     width: 100%;
     background-color: rgb(15, 15, 44);
     color: rgb(223, 215, 215);
+    padding: 14px 16px;
     text-align: center;
- 
- }
+    align-items: center;
+  }
+  .footer a {
+    padding: 5px;
+  }

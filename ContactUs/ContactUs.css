@@ -1,8 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+}
 .topnav {
     overflow: hidden;
     background-color: rgb(206, 203, 57);
   }
-  
   .topnav a {
     float: left;
     color: black;
@@ -19,6 +22,9 @@
     height: 48px;
     float:left;
 }
+.imgCR2 {
+  height: 48px;
+}
 .image {
   display: block;
   margin-left: auto;
@@ -32,5 +38,10 @@
   width: 100%;
   background-color: rgb(15, 15, 44);
   color: rgb(223, 215, 215);
+  padding: 14px 16px;
   text-align: center;
+  align-items: center;
+}
+.footer a {
+  padding: 5px;
 }

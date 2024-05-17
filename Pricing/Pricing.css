@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+  padding: 0;
+}
 div.mycontainer {
     width: 100%;
     overflow: auto;
@@ -29,14 +33,18 @@ img {
     float:left;
 }
 .footer {
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    background-color: rgb(15, 15, 44);
-    color: rgb(223, 215, 215);
-    text-align: center;
- 
- }
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(15, 15, 44);
+  color: rgb(223, 215, 215);
+  padding: 14px 16px;
+  text-align: center;
+  align-items: center;
+}
+.footer a {
+  padding: 5px;
+}
 .bronze {
   background-color: #cf5132;
   font-family: Arial, Helvetica, sans-serif;
