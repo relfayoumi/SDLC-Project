@@ -5,7 +5,7 @@ body {
 
 .div1 {
   overflow: auto;
-  background-color: rgb(206, 203, 57);
+  background-color: rgb(243, 240, 64);
   top: 0;
   left: 0;
   width: 100%;
@@ -38,7 +38,7 @@ img {
 .bronze,
 .silver,
 .gold {
-  background-color: #cf5132;
+  background-color: #da6a4e;
   font-family: Arial, Helvetica, sans-serif;
   width: 30%;
   display: flex;
@@ -54,7 +54,7 @@ img {
 }
 
 .gold {
-  background-color: rgb(255, 204, 36);
+  background-color: rgb(250, 210, 77);
 }
 
 .tiers_images {

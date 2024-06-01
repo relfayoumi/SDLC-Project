@@ -1,5 +1,5 @@
 body {
-  background-image: url("../Images/background\ image\ for\ homepage.jpg");
+  background-image: url("../Images/homepage\ background_image.jpeg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -8,7 +8,7 @@ body {
 }
 .div1 {
   overflow: auto;
-  background-color: rgb(206, 203, 57);
+  background-color: rgb(243, 240, 64);
   top: 0;
   left: 0;
   width: 100%;
@@ -30,11 +30,11 @@ img {
 }
 
 .divCR {
-  background-color: aliceblue;
+  background-color: rgb(255, 255, 255);
   left: 30%;
   right: 50%;
   position: absolute;
-  padding: 10px;
+  padding: 25px;
   width: 35%;
   text-align: center;
 }
