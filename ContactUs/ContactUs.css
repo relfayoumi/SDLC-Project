@@ -2,36 +2,32 @@ body {
   margin: 0;
   padding: 0;
 }
-.topnav {
-    overflow: hidden;
-    background-color: rgb(206, 203, 57);
-  }
-  .topnav a {
-    float: left;
-    color: black;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  
-  .topnav a:hover {
-    background-color: white;
-    color: black;
-  }
-  .imgCR {
-    height: 48px;
-    float:left;
+
+.div1 {
+  overflow: auto;
+  background-color: rgb(206, 203, 57);
+  top: 0;
+  left: 0;
+  width: 100%;
 }
-.imgCR2 {
+
+.div1 a {
+  float: left;
+  padding: 14px 16px;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+}
+
+.div1 a:hover {
+  background-color: white;
+}
+
+img {
   height: 48px;
+  float: left;
 }
-.image {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  border: 10px;
-  height: 600px;
-}
+
 .footer {
   position: fixed;
   bottom: 0;
@@ -41,6 +37,11 @@ body {
   padding: 14px 16px;
   text-align: center;
   align-items: center;
+}
+
+p {
+  padding-left: 20px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .footer a {
   padding: 5px;
